@@ -1,66 +1,117 @@
-# portfolio-claude
-I want to make portfolio on Claude from Framer. Here is the link humanharshad.framer.ai
-# Project Overview
+# Portfolio Claude
 
-portfolio-claude is my personal portfolio project built with Framer to showcase UX/UI design, product thinking, and modern web experiences.
+Modern UX/UI portfolio built with Framer.
+
+## Live Website
+
+https://humanharshad.framer.ai
+
+---
+
+# About
+
+This project is my personal portfolio website focused on showcasing:
+
+* UX/UI Design
+* Product Design
+* SaaS Interfaces
+* Dashboard Design
+* AI Product Experiences
+* Web3 Projects
+* Responsive Web Design
+
+The portfolio highlights selected client work, case studies, design systems, and interactive experiences.
+
+---
+
+# Goals
+
+The main goals of this project:
+
+* Build a modern portfolio experience
+* Improve UX storytelling
+* Create responsive layouts
+* Improve accessibility
+* Optimize SEO performance
+* Experiment with AI-assisted workflows
+* Improve Framer development workflow
+
+---
+
+# Tech Stack
+
+* Framer
+* Figma
+* Claude AI
+* HTML/CSS
+* Responsive Design Principles
+
+---
+
+# How I Use Claude
+
+Claude helps me with:
+
+* UX writing
+* Case study structure
+* Portfolio copy
+* Design ideas
+* Component logic
+* Layout refinement
+* Content optimization
+* Product thinking
+
+---
+
+# Features
+
+* Responsive Design
+* Interactive Animations
+* Smooth Navigation
+* Mobile Optimization
+* Clean UI System
+* Conversion-Focused Layouts
+* Fast Performance
+
+---
+
+# Work Included
+
+The portfolio includes projects from:
+
+* SaaS
+* Fintech
+* AI Tools
+* Web3
+* E-commerce
+* Startup Products
+* B2B Platforms
+
+---
+
+# Future Improvements
+
+Planned updates:
+
+* More case studies
+* Blog integration
+* Dark mode
+* CMS improvements
+* Advanced interactions
+* Performance optimization
+
+---
+
+# Connect
 
 Portfolio:
-humanharshad.framer.ai
-
-I’m a Product Designer focused on SaaS, AI tools, fintech, Web3, dashboards, and conversion-focused digital products. I work with startups and businesses to improve user experience, visual systems, and product usability.
-
-What I’m Building
-
-I’m building a portfolio experience that includes:
-
-Detailed UX case studies
-Responsive design systems
-Interactive Framer experiences
-Accessibility improvements
-SEO optimization
-AI-assisted workflows
-Fast iteration between design and production
-
-The project is public and continuously updated.
-
-How I Use Claude
-
-Claude plays a major role in my workflow:
-
-UX writing
-Case study structure
-Content generation
-Design system planning
-Interaction ideas
-Framer component logic
-Product documentation
-Landing page optimization
-
-Claude helps me reduce repetitive work and focus more on design quality and user experience.
-
-Why I’m Applying for Claude Max
-
-I actively design and publish work online while experimenting with AI-assisted product design workflows.
-
-Access to Claude Max would help me:
-
-Build and improve my portfolio faster
-Test advanced AI workflows for design systems
-Improve UX writing and storytelling
-Create better product experiences
-Share practical learnings with the design community
-Links
-
-Portfolio:
-humanharshad.framer.ai
+https://humanharshad.framer.ai
 
 Dribbble:
-dribbble.com/humanharshad
+https://dribbble.com/humanharshad
 
 Behance:
-behance.net/humanharshad
+https://behance.net/humanharshad
 
 LinkedIn:
-linkedin.com/in/humanharshad
-
-Thank you for reviewing my application.
+https://linkedin.com/in/humanharshad
