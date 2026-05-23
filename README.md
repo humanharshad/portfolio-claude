@@ -1,117 +1,80 @@
-# Portfolio Claude
+# Harsh Harshad - Portfolio
 
-Modern UX/UI portfolio built with Framer.
+A minimal, clean portfolio website inspired by modern design practices.
 
-## Live Website
+## 🎨 Features
 
-https://humanharshad.framer.ai
+- **Minimal Design** - Clean, spacious layout with focus on content
+- **Responsive** - Works perfectly on desktop, tablet, and mobile
+- **Fast** - Pure HTML/CSS, no external dependencies
+- **Easy to Customize** - Simple structure, easy to modify
 
----
+## 📁 File Structure
 
-# About
+```
+.
+├── index.html       # Main HTML file
+├── styles.css       # All styling
+└── README.md        # This file
+```
 
-This project is my personal portfolio website focused on showcasing:
+## 🚀 Getting Started
 
-* UX/UI Design
-* Product Design
-* SaaS Interfaces
-* Dashboard Design
-* AI Product Experiences
-* Web3 Projects
-* Responsive Web Design
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Or use a simple HTTP server:
+   ```bash
+   python -m http.server 8000
+   ```
 
-The portfolio highlights selected client work, case studies, design systems, and interactive experiences.
+## ✏️ Customization
 
----
+### Update Your Info
+Edit `index.html` to add:
+- Your name and tagline in the hero section
+- Your projects in the work section
+- Your bio in the about section
+- Your contact links in the contact section
 
-# Goals
+### Adjust Colors
+Edit the CSS variables at the top of `styles.css`:
+```css
+:root {
+    --primary-bg: #ffffff;
+    --primary-text: #000000;
+    --secondary-text: #666666;
+    /* ... */
+}
+```
 
-The main goals of this project:
+### Add Project Images
+Replace the placeholder divs in the `.project-image` with actual images:
+```html
+<img src="path/to/image.jpg" alt="Project Title">
+```
 
-* Build a modern portfolio experience
-* Improve UX storytelling
-* Create responsive layouts
-* Improve accessibility
-* Optimize SEO performance
-* Experiment with AI-assisted workflows
-* Improve Framer development workflow
+## 📝 Sections
 
----
+- **Navigation** - Sticky nav with smooth scrolling links
+- **Hero** - Eye-catching introduction
+- **Work** - Your project portfolio
+- **About** - Your background and skills
+- **Contact** - Call-to-action and social links
+- **Footer** - Copyright info
 
-# Tech Stack
+## 🎯 Tips for a Better Portfolio
 
-* Framer
-* Figma
-* Claude AI
-* HTML/CSS
-* Responsive Design Principles
+1. Add real project descriptions and links
+2. Include high-quality project images
+3. Update all email and social links
+4. Consider adding a blog section
+5. Use your own domain name
+6. Test on mobile devices
 
----
+## 📄 License
 
-# How I Use Claude
-
-Claude helps me with:
-
-* UX writing
-* Case study structure
-* Portfolio copy
-* Design ideas
-* Component logic
-* Layout refinement
-* Content optimization
-* Product thinking
-
----
-
-# Features
-
-* Responsive Design
-* Interactive Animations
-* Smooth Navigation
-* Mobile Optimization
-* Clean UI System
-* Conversion-Focused Layouts
-* Fast Performance
-
----
-
-# Work Included
-
-The portfolio includes projects from:
-
-* SaaS
-* Fintech
-* AI Tools
-* Web3
-* E-commerce
-* Startup Products
-* B2B Platforms
+Feel free to use this as a template for your own portfolio.
 
 ---
 
-# Future Improvements
-
-Planned updates:
-
-* More case studies
-* Blog integration
-* Dark mode
-* CMS improvements
-* Advanced interactions
-* Performance optimization
-
----
-
-# Connect
-
-Portfolio:
-https://humanharshad.framer.ai
-
-Dribbble:
-https://dribbble.com/humanharshad
-
-Behance:
-https://behance.net/humanharshad
-
-LinkedIn:
-https://linkedin.com/in/humanharshad
+Built with minimal design principles. Less is more. ✨
